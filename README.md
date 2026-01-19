@@ -5,9 +5,9 @@
 ---
 
 ### 📂 Current Status
-* 🔭 I’m currently working on **[Staffbot]**
-* 🌱 I’m currently learning **TS, JS, Fullstack**
-* 👯 I’m looking to collaborate on **Open Source initiatives**
+*  I’m currently working on **[Staffbot]**
+*  I’m currently learning **TS, JS, Fullstack**
+*  I’m looking to collaborate on **Open Source initiatives**
 
 ---
 
@@ -38,4 +38,4 @@
 ---
 
 ### ⌨️ Terminal Command
-`$ scronbrand --status "Building amazing things..."`    
+`$ scronbrand --status "..."`    
