@@ -1,13 +1,13 @@
-# 👨‍💻 [guest@terminal:~]$ whoami
+#  [guest@terminal:~]$ whoami
 
 > "Simple is better than complex."
 
 ---
 
 ### 📂 Current Status
-*  I’m currently working on **[Staffbot]**
-*  I’m currently learning **TS, JS, Fullstack**
-*  I’m looking to collaborate on **Open Source initiatives**
+* 🔭 I’m currently working on **[Staffbot]**
+* 🌱 I’m currently learning **TS, JS, Fullstack**
+* 👯 I’m looking to collaborate on **Open Source initiatives**
 
 ---
 
@@ -26,4 +26,16 @@
   <img src="https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/fastapi-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/mongo.db-%23000000.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="
+  <img src="https://img.shields.io/badge/postgres-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+---
+
+### 📈 Statistics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=scronbrand&show_icons=true&theme=dark&bg_color=000000&title_color=00ffab&icon_color=00ffab&text_color=ffffff&hide_border=false" alt="scronbrand's GitHub stats" />
+</p>
+---
+
+### ⌨️ Terminal Command
+`$ scronbrand --status "Building amazing things..."`    
