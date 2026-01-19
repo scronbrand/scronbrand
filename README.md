@@ -38,4 +38,4 @@
 ---
 
 ### ⌨️ Terminal Command
-`$ scronbrand --status "Building amazing things..."`    
+`$ scronbrand --status "..."`    
